@@ -1,5 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 header{
   background-color: #eaa0ec;
   color: aliceblue;
+}
 
+header h1{
+  text-align: justify;
 }
