@@ -8,5 +8,6 @@ header{
 }
 
 header h1{
-  text-align: justify;
+  text-align: center;
+  font-sixe: 50px;
 }
