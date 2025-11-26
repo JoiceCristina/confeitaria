@@ -11,7 +11,7 @@ function criarItemCardapio(titulo, descricao, foto) {
 
     const pDescricao = document.createElement('p')
     pDescricao.textContent = pDescricao
-    pDescricao.className = 'desricao'
+    pDescricao.className = 'descricao'
 
     const img = document.createElement('img')
     img.src = foto
