@@ -10,7 +10,7 @@ function criarItemCardapio(titulo, descricao, foto) {
     h3Titulo.textContent = titulo
 
     const pDescricao = document.createElement('p')
-    pDescricao.textContent = pDescricao
+    pDescricao.textContent = descricao
     pDescricao.className = 'descricao'
 
     const img = document.createElement('img')
