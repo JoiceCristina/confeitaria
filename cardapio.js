@@ -26,8 +26,6 @@ function criarItemCardapio(titulo, descricao, foto) {
 
     divC.appendChild(divItemCArdapio)
 }
-//executando a função
-
 
 
 function buscarBolos() {
