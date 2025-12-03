@@ -29,6 +29,7 @@ function criarItemCardapio(titulo, descricao, foto) {
 //executando a função
 
 
+
 function buscarBolos() {
     const url = 'https://confeitaria-api-go8p.onrender.com'; // Substitua com a URL real
 
